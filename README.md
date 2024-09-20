@@ -5,7 +5,7 @@ what this does is if you go to a blocked website, It will open this page and not
 2. github (ofc)
 #
 To start, when you have the violentmonkey extension installed, Go to: extensions tab, violentmonkey, + icon, and past this in:
-// ==UserScript==
+'// ==UserScript==
 // @name         Redirect to Local HTML
 // @namespace    http://violentmonkey.net/
 // @version      1.0
@@ -20,3 +20,4 @@ To start, when you have the violentmonkey extension installed, Go to: extensions
     // Redirect to the local HTML file
     window.location.href = "https://foxiseminger.github.io/website-blocker/";
 })();
+'
