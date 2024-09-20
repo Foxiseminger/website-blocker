@@ -1,7 +1,7 @@
 # Website Blocker
 What this does is if you go to a blocked website, It will open this page and not let you access the page.
 # Requirements
-1. [Violentmonkey Extension](https://chromewebstore.google.com/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag)
+1. [Violentmonkey Extension](https://violentmonkey.github.io)
 2. A [GitHub](https://github.com/) account
 3. Knowledge of how to use [GitHub](https://github.com/)
 #
