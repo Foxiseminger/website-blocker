@@ -5,6 +5,4 @@ what this does is if you go to a blocked website, It will open this page and not
 2. github (ofc)
 #
 To start, when you have the violentmonkey extension installed, Go to: extensions tab, violentmonkey, + icon, and paste this in:
->[!NOTE]
->
->This is a standard NOTE block.
+`hi daddy`
