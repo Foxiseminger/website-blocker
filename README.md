@@ -33,5 +33,5 @@ To start, when you have the violentmonkey extension installed, Go to: extensions
 After you have pasted in the code, press "CTRL + S". After that, you should be able to go to the page and see the website is blocked. If it is not, go to the issues tab in my github repository.
 ## License
 
-This project is licensed under the [GNU General Public License v3.0](LICENSE).
+![GPLv3 License](https://img.shields.io/badge/License-GPLv3-blue.svg)
 
