@@ -33,6 +33,6 @@ To start, when you have the violentmonkey extension installed, Go to: extensions
 After you have pasted in the code, press "CTRL + S". After that, you should be able to go to the page and see the website is blocked. If it is not, go to the issues tab in my github repository.
 # Website Blocker
 
-![Website Blocker Screenshot](https://foxiseminger.github.io/website-blocker/screenshot.png)
+![Website Blocker Screenshot](https://your-github-username.github.io/website-blocker/screenshot.png)
 
 What this does is if you go to a blocked website, it will open this page...
